@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\kyle.bruney\\AndroidStudioProjects\\SecondSense1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recordpage.xml",
+        "source": "C:\\Users\\kyle.bruney\\AndroidStudioProjects\\SecondSense1\\app\\src\\main\\res\\layout\\recordpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyle.bruney\\AndroidStudioProjects\\SecondSense1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splashscreen.xml",
+        "source": "C:\\Users\\kyle.bruney\\AndroidStudioProjects\\SecondSense1\\app\\src\\main\\res\\layout\\splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyle.bruney\\AndroidStudioProjects\\SecondSense1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_stringinput.xml",
+        "source": "C:\\Users\\kyle.bruney\\AndroidStudioProjects\\SecondSense1\\app\\src\\main\\res\\layout\\dialog_stringinput.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyle.bruney\\AndroidStudioProjects\\SecondSense1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\homepage.xml",
+        "source": "C:\\Users\\kyle.bruney\\AndroidStudioProjects\\SecondSense1\\app\\src\\main\\res\\layout\\homepage.xml"
+    }
+]

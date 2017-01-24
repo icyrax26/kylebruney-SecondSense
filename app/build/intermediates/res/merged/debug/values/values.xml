@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#0044AA</color>
+    <color name="black">#000000</color>
+    <color name="bluedark">#2F6699</color>
+    <color name="bluelight">#449DEF</color>
+    <color name="greendark">#53933F</color>
+    <color name="greenlight">#70C656</color>
+    <color name="grey">#7A7A7A</color>
+    <color name="orangedark">#BB6008</color>
+    <color name="orangelight">#F3AE1B</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="acc">Accelerometer</string>
+    <string name="action_settings">Settings</string>
+    <string name="all">All files are saved to</string>
+    <string name="app_name">Second Sense</string>
+    <string name="clik">Click icon on the top right to name the file before recording</string>
+    <string name="cont">CONTINUE</string>
+    <string name="gyro">Gyroscope</string>
+    <string name="max">For maximum performance, hold the mobile device in your hand with the screen
+         facing you, facing up at the sky, or in your front pocket with the screen facing you.</string>
+    <string name="pause">Pause</string>
+    <string name="ped">Pedometer</string>
+    <string name="record">Record</string>
+    <string name="reset">Reset</string>
+    <string name="sd">/sdcard/SecondSense/</string>
+    <string name="stop">Stop</string>
+    <string name="track">Track user movements using the sensors on your Android device.</string>
+    <string name="welc">Welcome to Second Sense!</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="android:Theme.Holo">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

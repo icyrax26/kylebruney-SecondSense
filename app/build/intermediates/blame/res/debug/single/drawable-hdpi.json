@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\kyle.bruney\\AndroidStudioProjects\\SecondSense1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\kyle.bruney\\AndroidStudioProjects\\SecondSense1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kyle.bruney\\AndroidStudioProjects\\SecondSense1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\reset.png",
+        "source": "C:\\Users\\kyle.bruney\\AndroidStudioProjects\\SecondSense1\\app\\src\\main\\res\\drawable-hdpi\\reset.png"
+    },
+    {
+        "merged": "C:\\Users\\kyle.bruney\\AndroidStudioProjects\\SecondSense1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\second_sense.png",
+        "source": "C:\\Users\\kyle.bruney\\AndroidStudioProjects\\SecondSense1\\app\\src\\main\\res\\drawable-hdpi\\second_sense.png"
+    },
+    {
+        "merged": "C:\\Users\\kyle.bruney\\AndroidStudioProjects\\SecondSense1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stop.png",
+        "source": "C:\\Users\\kyle.bruney\\AndroidStudioProjects\\SecondSense1\\app\\src\\main\\res\\drawable-hdpi\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\kyle.bruney\\AndroidStudioProjects\\SecondSense1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\record.png",
+        "source": "C:\\Users\\kyle.bruney\\AndroidStudioProjects\\SecondSense1\\app\\src\\main\\res\\drawable-hdpi\\record.png"
+    }
+]
