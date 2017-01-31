@@ -8,4 +8,4 @@ The three sensors used for tracking user movement are:
     - Gyroscope
     - Pedometer
     
-The sensor data is converted toa string to display what direction the user is turning and the data is saved to the SD card as a .csv file.
+The sensor data is converted to a string to display what direction the user is turning and the data is saved to the SD card as a .csv file.
